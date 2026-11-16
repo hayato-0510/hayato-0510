@@ -37,6 +37,7 @@ Web開発を中心に、業務委託での実務と、個人・チームでの�
 | [collage_camera](https://github.com/hayato-0510/collage_camera) | 高専祭で実際に使われた、来場者の写真で巨大モザイクを作るコラージュカメラ。個人開発 |
 | [clear-talk-RPG](https://github.com/hayato-0510/clear-talk-RPG) | パソコン甲子園2024 モバイル部門 本戦出場。RPG形式の発話改善アプリ（Kotlin、UI担当） |
 | [wordbook-app](https://github.com/hayato-0510/wordbook-app) | 単語帳アプリ（React Native / Expo、TypeScript） |
+| [graduation-live-2026](https://github.com/hayato-0510/graduation-live-2026) | 2026年3月開催の鈴鹿高専 卒業ライブ特設サイト（Next.js / React / TypeScript）。タイムテーブル、出演者情報、カウントダウン機能を実装 |
 
 ### その他の作品（リポジトリ非公開）
 
